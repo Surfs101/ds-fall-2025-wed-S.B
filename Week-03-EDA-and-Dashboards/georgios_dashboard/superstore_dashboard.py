@@ -743,7 +743,7 @@ def main():
             top_states,
             column_order=("State", "Total_Sales"),
             hide_index=True,
-            width=None,
+            # width='content',
             column_config={
                 "State": st.column_config.TextColumn(
                     "State",
@@ -768,7 +768,7 @@ def main():
             top_categories,
             column_order=("Category", "Total_Sales"),
             hide_index=True,
-            width=None,
+            # width=None,
             column_config={
                 "Category": st.column_config.TextColumn(
                     "Category",

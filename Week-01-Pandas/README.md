@@ -6,17 +6,15 @@
 	* Turn on CC's. 
 	* Enable screen sharing for everyone (for breakout rooms)
 	* Ask TA for time checks
+    * [Warm Up Questions](https://ahaslides.com/PBIFD)
 0. Welcome and how to succeed CTP. [45min]
 	* [TLDR slide deck](https://docs.google.com/presentation/d/1cgkgEVO8ZY4P49R45uu2BuLGsZ7_sfBqwu60eyJ8k9c/edit#slide=id.g2f65cf05428_0_0)
 0. [Setting Up GitHub](https://github.com/CUNYTechPrep/ds-dev-fall-2025/tree/main?tab=readme-ov-file#setup-instructions-github-and-homeworks)
 0. Break
 0. Live coding pandas --> Lecture.ipynb [45min]
-0. Explain breakout room rules. 
-0. Exercise in breakout rooms.
-0. When there is 15min left in class.
-	* Close all breakout rooms and explain HW instructions and how to submit HW. 
+1. Secret Word
 0. Go through what is DUE for HW (first topic below). [Slack Picture + Pre-Class Video + Slack Message + Exercise]
-0. Ask students who can help with setup to stay and help. 
+0. Finish Github Setup
 
 
 # Homework Due Monday [~2.25 hrs to complete]
