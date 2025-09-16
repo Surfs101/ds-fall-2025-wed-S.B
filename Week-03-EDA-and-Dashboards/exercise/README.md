@@ -6,4 +6,4 @@ This Streamlit dashboard analyzes the MovieLens 200k dataset to uncover insights
 ## Installation
 
 1. Clone or download this repository
-2. Install the required packages:
+2. Install the required packages: pip install -r requirements.txt 
