@@ -1,54 +1,35 @@
-# Week 05 - Regression
+# Week 08 - Regression
 
 
 ### Agenda
+0. Job Hunt Story time... 
 0. Remind me to start recording
 0. Read Annoucments Slack Message
-0. Review last weeks HW
+0. TA Chat Engagement: Best Student Awards at end of class [HW pass] ⭐⭐⭐
+1. At end of class, award 2 awards.  Chat Hero award // Live hero award. 
+2. Be active in chat.  TA is mod, Zack doesn’t really watch it.  
+0. Remind kids not to push to dev. 
 0. [Regression Slide Lecture](https://docs.google.com/presentation/d/1NocZHwSrV3dWgpWhmbMDSpPSqWwF9WiLWj8IT37ktnU/edit#slide=id.p)
-0. Lecture Coding
 0. Break
+0. Lecture Coding
 0. TEAM Breakout Rooms
 <br>
 <br>
 
 
-## HOMEWORK DUE NEXT WEEK [~2hrs]
+## HOMEWORK DUE NEXT WEEK [less than 2hrs]
 
-#### Prep Vids For Classification Lecture 
-0. Watch this AMAZING video about how to [how to tell if your model is good or not](https://www.youtube.com/watch?v=Kdsp6soqA7o&ab_channel=StatQuestwithJoshStarmer).
-0. Watch Parts 1 and 2 on Logistic Regression
-    * [Part 0: Logisitic Regerssion](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=1&t=424s&ab_channel=StatQuestwithJoshStarmer) 
-    * [Part 1: Coefficients in Logistic Regression](https://www.youtube.com/watch?v=vN5cNN2-HWE&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=2&t=834s&ab_channel=StatQuestwithJoshStarmer)
-    * OPTIONAL:  [Watch all the parts](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)
- 
-1. OPTIONAL: Watch this NOVA documentary [Building The World's Smartest Machine](https://youtu.be/4svcCJJ6ciw?si=ERSmoLJOEhIAKVqp) to play Jeopardy. [~1hr]
-    * This documentary literally got me into data science. Super well made about building 'the worlds smartest machine' 
-* OPTIONAL:  Watch the movie [Moneyball](https://www.youtube.com/watch?v=D1R-LwHbld4&ab_channel=SonyPicturesEntertainment). The AMAZING story about beating baseball with data science called (starring Brad Pitt).  
-![alt text](images/brad-pitt.png)
+## Preclass Videos [30min]
+0. Watch StatQuest's...
+    * [Decision Trees Clearly Explained](https://www.youtube.com/watch?v=_L39rN6gz7Y&t=1s&ab_channel=StatQuestwithJoshStarmer)[~20min]
+    *  [Random Forests Pt 1 - Building, Using, and Evaulating](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&t=52s&ab_channel=StatQuestwithJoshStarmer) [~10min]
 
 
-
-<br>
-<br>
-
-## Exercise.ipynb [~1hr-2hr]
+## Exercise.ipynb [~1hr]
 0. MAKE A COPY of the Exercise file.
-    * Rename it `Exercise-YOURINITALS.ipynb`
+    * Rename it `Exercise-YOURINITALS.ipynb` and put in homeowkrs folder. 
 0. Complete the questions.
-0. Save and push to github.
-0. Paste github code link your HW Submission sheet. 
+0. Make pull request.
+0. Paste github link to your notebook file in th HW Submission sheet. 
 
-<br>
-<br>
-
-
-## LinkedIn Post [~10min]
-Lets decide on a topic now.... 
-
-* More data is more data but not more data?
-* Projects?
-* Tutorials?
-* AI?
-* Finding a job?
 

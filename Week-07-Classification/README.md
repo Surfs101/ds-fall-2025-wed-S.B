@@ -1,17 +1,11 @@
-# Week 6 - Classification through the lens of Logsitic Regression
+# Week 7 - Classification through the lens of Logsitic Regression
 
 ## Annoucements
 0. Be ready to interview in person again due to rampant cheating.  Cheating during an interview will get you blacklisted. 
-0. When posting on LI, please include hashtags `#CTP10` and `#CUNYTechPrep10`. tyty
-
 
 ## Class Agenda
+0. Job search stories. 
 0. Remind me to start recording.
-0. Hello to/from the new Tech Dean, [Aankit Patel](https://computinged.commons.gc.cuny.edu/our-team/). 
-0. Update your fork.
-	* `git fetch upstream`
-	* `git merge upstream/main`
-	* `git push`
 1. [Google Slide Lecture](https://docs.google.com/presentation/d/1CQvOw1k0kOrRpzPOUdlXhv8OaiaApv6rNDnuMZAe4Sc/edit#slide=id.g3091bd844fe_0_818)
 2. Live coding lecture.
 3. Break.
@@ -35,17 +29,12 @@
 ![alt text](https://raw.githubusercontent.com/CUNYTechPrep/2024-DS-Fri-1230/refs/heads/main/Week-05-Unsupervised-Learning/images/brad-pitt.png)
 <br>
 <br>
-### Linked In Post
-
-
 
 ## Exercise.ipynb [~30min-1hr]
 0. MAKE A COPY of the Exercise file.
 	* Rename it `Exercise-YOURINITALS.ipynb`
 0. Complete the questions.
-0. Save and push to github.
-0. Paste github code link your HW Submission sheet. 
-
+0. Put link to your notebook file in the HW Submission sheet
 
 ## LinkedIn Post
-* TBD
+* Tag Josh Starmer from StatQuest in you posts! (he responds to you)

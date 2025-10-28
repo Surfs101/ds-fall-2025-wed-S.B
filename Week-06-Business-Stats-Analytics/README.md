@@ -16,7 +16,7 @@
 # Homework
 
 # IMPORTANT, FROM NOW ON SUBMIT HOMEWORK ON THIS GOOGLE SHEET!  
-Instructor walk them thru how to do it.  [zack to add link here]
+Instructor walk them thru how to do it ([here](https://docs.google.com/spreadsheets/d/1noOJ6UP_izWVsWHmvFXe3UPQVPVsxeK_QGLOL7J7k10/edit?gid=0#gid=0))
 
 ### Exercise Notebook
 
@@ -37,4 +37,5 @@ Post in slack one thing you find interesting about any of the vidoes below.
 <br>
 
 ## LinkedIn Post
-* TBA
+* Find an item you bought on purpose, then go to that brand’s blogs and find a data scientist from there, or from any company you like, post about any data science project they did and tag them in your post.
+* Here is a [perfect example](https://www.nike.com/a/how-data-fuels-nike-shoe-design) of a blog authors post to post on LinkedIn about.
